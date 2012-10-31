@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/fahhem/projects/socialplex_onoccasion/frontend/gathering/models'
+let g:netrw_dirhist_2='/home/fahhem/projects/socialplex_onoccasion/frontend/userprofile/views'
+let g:netrw_dirhist_3='/home/fahhem/projects/django-pipeline/pipeline/compilers'
+let g:netrw_dirhist_4='/home/fahhem/projects/socialplex_bugfixes/frontend/marketplace'
+let g:netrw_dirhist_5='/home/fahhem/projects/socialplex/frontend/gathering/models'
+let g:netrw_dirhist_6='/home/ubuntu/changeforobama/backend'
+let g:netrw_dirhist_7='/home/ubuntu/changeforobama/main'
+let g:netrw_dirhist_8='/home/ubuntu/socialplex/deps/src/django-email-confirmation/built/emailconfirmation'
